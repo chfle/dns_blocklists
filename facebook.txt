@@ -882,3 +882,9 @@
 0.0.0.0 scontent-frt3-3.xx.fbcdn.net
 0.0.0.0 scontent-frt3-4.xx.fbcdn.net
 0.0.0.0 scontent-frt3-5.xx.fbcdn.net
+0.0.0.0 video-frx5-1.xx.fbcdn.net
+0.0.0.0 video-frx5-3.xx.fbcdn.net
+0.0.0.0 video-frx5-4.xx.fbcdn.net
+0.0.0.0 scontent-frt3-4.xx.fbcdn.net
+0.0.0.0 scontent-frt3-5.xx.fbcdn.net
+

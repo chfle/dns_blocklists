@@ -1,0 +1,6 @@
+0.0.0.0 www.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 business.twitter.com
+0.0.0.0 api.twitter.com
+
